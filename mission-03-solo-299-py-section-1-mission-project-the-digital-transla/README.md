@@ -239,5 +239,4 @@ problems.
 - Programs give computers instructions, and stored data helps keep information for later use.
 
 In simple terms: 
-
 A computer takes information, follows instructions, works on the information and gives us a result.
